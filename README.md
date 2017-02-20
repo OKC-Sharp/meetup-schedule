@@ -7,7 +7,7 @@
 * 2017-02-06 Steven Fletcher, Advanced Regex in C# Flavor
 * 2017-03-06 Rainer Sigwald, Topic TBD
 * 2017-04-03 Lightning Talks
-    * 1. 
+    * 1. Dale Spoonemore - Protractor and Hangfire
     * 2.
     * 3.
 * 2017-05-01 Aaron Krauss, F#
