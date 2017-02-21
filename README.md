@@ -4,14 +4,14 @@
     * Wil Isaacs
     * Dwayne Geller
     * Joe Shelton
-* 2017-02-06 Steven Fletcher, Advanced Regex in C# Flavor
-* 2017-03-06 Rainer Sigwald, Topic TBD
+* 2017-02-06 Steven Fletcher - Advanced Regex in C# Flavor
+* 2017-03-06 Rainer Sigwald - Oh :poop:, I Broke the Build!
 * 2017-04-03 Lightning Talks
     * 1. Dale Spoonemore - Protractor and Hangfire
     * 2.
     * 3.
-* 2017-05-01 Aaron Krauss, F#
-* 2017-06-05 Danny Burrows, API Caching with .NET Core and Redis
+* 2017-05-01 Aaron Krauss - F#
+* 2017-06-05 Danny Burrows - API Caching with .NET Core and Redis
 * 2017-07-10 Lightning Talks (reschedule due to holiday)
     * 1.
     * 2.
