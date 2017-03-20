@@ -10,10 +10,10 @@
     1. Dale Spoonemore - Protractor and Hangfire
     2.
     3.
-* 2017-05-01 Aaron Krauss - F#
-* 2017-06-05 Danny Burrows - API Caching with .NET Core and Redis
+* 2017-05-01 David Walker - Integration Intoxication
+* 2017-06-05 Aaron Krauss - F#
 * 2017-07-10 Lightning Talks (reschedule due to holiday)
-* 2017-08-07 TBD
+* 2017-08-07 Danny Burrows - API Caching with .NET Core and Redis
 * 2017-09-11 TBD (reschedule due to holiday)
 * 2017-10-02 Lightning Talks
 * 2017-11-06 TBD
