@@ -8,7 +8,7 @@
 * 2017-03-06 Rainer Sigwald - Oh :poop:, I Broke the Build!
 * 2017-04-03 Lightning Talks
     1. Dale Spoonemore - Protractor and Hangfire
-    2.
+    2. Tyler Palesano - Visual Studio Code
     3.
 * 2017-05-01 David Walker - Integration Intoxication
 * 2017-06-05 Aaron Krauss - F#
