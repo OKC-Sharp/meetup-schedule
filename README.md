@@ -7,9 +7,9 @@
 * 2017-02-06 Steven Fletcher - Advanced Regex in C# Flavor
 * 2017-03-06 Rainer Sigwald - Oh :poop:, I Broke the Build!
 * 2017-04-03 Lightning Talks
-    1. Dale Spoonemore - Protractor and Hangfire
-    2. Tyler Palesano - Visual Studio Code
-    3. Carmen Long - Raspberry Pi Development
+    1. Dale Spoonemore - How we set up automated smoke tests with Protractor and Hangfire
+    2. Tyler Palesano - Overview of Visual Studio Code
+    3. Carmen Long - Getting coding on a Raspberry Pi in 5 minutes
 * 2017-05-01 David Walker - Integration Intoxication
 * 2017-06-05 Aaron Krauss - F#
 * 2017-07-10 Lightning Talks (reschedule due to holiday)
