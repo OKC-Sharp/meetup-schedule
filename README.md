@@ -14,6 +14,7 @@
 * 2017-06-05 Aaron Krauss - F#
 * 2017-07-10 Lightning Talks (reschedule due to holiday)
     1. Caitlin Stewart - TBD
+    2. Chase Pritchett - 3 Favorite C# 7 Features
 * 2017-08-07 Danny Burrows - API Caching with .NET Core and Redis
 * 2017-09-11 TBD (reschedule due to holiday)
 * 2017-10-02 Lightning Talks
