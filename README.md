@@ -15,7 +15,7 @@
 * 2017-07-10 Lightning Talks (reschedule due to holiday)
     1. Caitlin Stewart - All Your User Base Are Belong To Us: Website Localization
     2. Chase Pritchett - My 3 Favorite C# 7 Features
-    3. Dale Spoonemore - Mental Health
+    3. Dale Spoonemore - Overcoming Anxiety/Depression Through Work/Life/Farm Balance
     4. Steven Fletcher - TBD
 * 2017-08-07 Danny Burrows - API Caching with .NET Core and Redis
 * 2017-09-11 TBD (reschedule due to holiday)
