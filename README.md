@@ -20,7 +20,7 @@
 * 2017-08-07 Steven Fletcher - Game of Services - Anemia is Coming
 * 2017-09-11 TBD
 * 2017-10-02 Lightning Talks
-    * TBD
+    * Vincent Johns - Test-Driven Scaffolding
     * TBD
     * TBD
 * 2017-11-06 TBD
