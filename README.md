@@ -18,7 +18,7 @@
     * Dale Spoonemore - Overcoming Anxiety/Depression Through Work/Life/Farm Balance
     * Steven Fletcher - .NET Garbage Collection
 * 2017-08-07 Steven Fletcher - Game of Services - Anemia is Coming
-* 2017-09-11 TBD
+* 2017-09-11 Rainer Sigwald - What's new in Update 3?
 * 2017-10-02 Lightning Talks
     * Vincent Johns - Test-Driven Scaffolding
     * TBD
