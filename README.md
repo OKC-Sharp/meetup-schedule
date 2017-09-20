@@ -21,7 +21,7 @@
 * 2017-09-11 Rainer Sigwald - What's new in Update 3?
 * 2017-10-02 Lightning Talks
     * Vincent Johns - Test-Driven Scaffolding
-    * TBD
+    * Carmen Bourlon - Mapping the Internet
     * TBD
 * 2017-11-06 TBD
 * 2017-12-04 TBD
