@@ -22,6 +22,6 @@
 * 2017-10-02 Lightning Talks
     * Vincent Johns - Test-Driven Scaffolding
     * Carmen Bourlon - Mapping the Internet
-    * Tyler Palesano - TBD
+    * Tyler Palesano - Anonymous types and lambda expressions in C#
 * 2017-11-06 TBD
 * 2017-12-04 TBD
