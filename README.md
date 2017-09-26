@@ -22,6 +22,6 @@
 * 2017-10-02 Lightning Talks
     * Vincent Johns - Test-Driven Scaffolding
     * Carmen Bourlon - Mapping the Internet
-    * TBD
+    * Tyler Palesano - TBD
 * 2017-11-06 TBD
 * 2017-12-04 TBD
