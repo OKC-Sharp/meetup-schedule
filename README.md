@@ -1,5 +1,18 @@
 # Meetup Schedule
 
+## 2018
+
+* 2018-01-08 Lightning Talks
+   * Carmen Bourlon
+   * Dale Spoonemore
+* 2018-02-05 Gary Carr?
+* 2018-03-05
+* 2018-04-02 Lightning Talks
+* 2018-05-07
+* 2018-06-04
+
+## 2017
+
 * 2017-01-09 Lightning Talks
     * Wil Isaacs
     * Dwayne Geller
@@ -23,5 +36,5 @@
     * Vincent Johns - Test-Driven Scaffolding
     * Carmen Bourlon - Mapping the Internet
     * Tyler Palesano - Anonymous types and lambda expressions in C#
-* 2017-11-06 TBD
-* 2017-12-04 TBD
+* 2017-11-06 Danny Burrows - The new .NET: .NET on Mac with Docker
+* 2017-12-04 Wil Isaacs - Azure Service Bus and Azure Web Jobs
