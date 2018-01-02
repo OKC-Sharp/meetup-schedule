@@ -3,9 +3,10 @@
 ## 2018
 
 * 2018-01-08 Lightning Talks
-   * Carmen Bourlon
-   * Dale Spoonemore
-* 2018-02-05 Gary Carr?
+   * Carmen Bourlon - Intro to Service Workers
+   * Chase Pritchett - Be a Mentor
+   * Dale Spoonemore - Farmer -> Coder: How I Learned to Code and Built My First Mobile App
+* 2018-02-05 Gary Carr - Alexa SDK using Amazon and Azure
 * 2018-03-05
 * 2018-04-02 Lightning Talks
 * 2018-05-07
