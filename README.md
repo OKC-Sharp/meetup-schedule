@@ -7,8 +7,9 @@
    * Chase Pritchett - Be a Mentor
    * Dale Spoonemore - Farmer -> Coder: How I Learned to Code and Built My First Mobile App
 * 2018-02-05 Gary Carr - Alexa SDK using Amazon and Azure
-* 2018-03-05
+* 2018-03-05 Ben Gribaudo - SQL for C# Developers
 * 2018-04-02 Lightning Talks
+  * Ryan Dawkins - Performance Concerns around Making REST Calls
 * 2018-05-07
 * 2018-06-04
 
