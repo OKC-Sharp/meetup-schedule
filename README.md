@@ -10,6 +10,7 @@
 * 2018-03-05 Ben Gribaudo - SQL for C# Developers
 * 2018-04-02 Lightning Talks
   * Ryan Dawkins - Performance Concerns around Making REST Calls
+  * Jake Spencer - The Beauty of Code First Migrations
 * 2018-05-07
 * 2018-06-04
 
