@@ -11,6 +11,7 @@
 * 2018-04-02 Lightning Talks
   * Ryan Dawkins - Performance Concerns around Making REST Calls
   * Jake Spencer - The Beauty of Code First Migrations
+  * Jeff Maxwell - MS Custom Vision API
 * 2018-05-07
 * 2018-06-04
 
