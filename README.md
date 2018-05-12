@@ -11,6 +11,7 @@
 * 2018-04-02 Lightning Talks
   * Jake Spencer - The Beauty of Code First Migrations
   * Jeff Maxwell - MS Custom Vision API
+  * Rainer Sigwald - What's New in .NET Core?
 * 2018-05-07 Chris Dorst - Automating Web Application Development Tasks with C#
 * 2018-06-04
 * 2018-07-02 or 2018-07-09 Lightning Talks
