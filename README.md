@@ -12,8 +12,14 @@
   * Ryan Dawkins - Performance Concerns around Making REST Calls
   * Jake Spencer - The Beauty of Code First Migrations
   * Jeff Maxwell - MS Custom Vision API
-* 2018-05-07
+* 2018-05-07 Chris Dorst - Automating Web Application Development Tasks with C#
 * 2018-06-04
+* 2018-07-02 or 2018-07-09 Lightning Talks
+* 2018-08-06
+* 2018-09-10
+* 2018-10-01 Lightning Talks
+* 2018-11-05
+* 2018-12-03
 
 ## 2017
 
