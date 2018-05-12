@@ -9,12 +9,12 @@
 * 2018-02-05 Gary Carr - Alexa SDK using Amazon and Azure
 * 2018-03-05 Ben Gribaudo - SQL for C# Developers
 * 2018-04-02 Lightning Talks
-  * Ryan Dawkins - Performance Concerns around Making REST Calls
   * Jake Spencer - The Beauty of Code First Migrations
   * Jeff Maxwell - MS Custom Vision API
 * 2018-05-07 Chris Dorst - Automating Web Application Development Tasks with C#
 * 2018-06-04
 * 2018-07-02 or 2018-07-09 Lightning Talks
+  * Ryan Dawkins - Performance Concerns around Making REST Calls
 * 2018-08-06
 * 2018-09-10
 * 2018-10-01 Lightning Talks
