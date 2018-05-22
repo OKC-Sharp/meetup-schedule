@@ -6,3 +6,5 @@
 * How to incorporate testing
 * Comparing C# to other languages
 * Productivity and workflow tips
+* Visual Studio vs. VS Code
+* Pros and Cons of Intellisense
