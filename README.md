@@ -13,8 +13,8 @@
   * Jeff Maxwell - MS Custom Vision API
   * Rainer Sigwald - What's New in .NET Core?
 * 2018-05-07 Chris Dorst - Automating Web Application Development Tasks with C#
-* 2018-06-04
-* 2018-07-02 or 2018-07-09 Lightning Talks
+* 2018-06-04 Aaron Krauss - How to Give Talks
+* 2018-07-09 Lightning Talks
   * Ryan Dawkins - Performance Concerns around Making REST Calls
 * 2018-08-06
 * 2018-09-10
