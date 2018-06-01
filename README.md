@@ -16,6 +16,7 @@
 * 2018-06-04 Aaron Krauss - How to Give Talks
 * 2018-07-09 Lightning Talks
   * Ryan Dawkins - Performance Concerns around Making REST Calls
+  * Ryan Johnson - Becoming a Better Programmer, Without Actually Programming
 * 2018-08-06
 * 2018-09-10
 * 2018-10-01 Lightning Talks
