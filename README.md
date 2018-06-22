@@ -18,7 +18,8 @@
   * Ryan Dawkins - Performance Concerns around Making REST Calls
   * Ryan Johnson - Becoming a Better Programmer, Without Actually Programming
   * Taylor Wilken - Alternatives to System.Drawing for imaging in .net core on linux/mac
-* 2018-08-06 Devon Toland - Intro to Unity
+* 2018-08-06 Danny Burrows - TBD
+* ??? Devon Toland - Intro to Unity
 * 2018-09-10 Jeremy Waller - Docker
 * 2018-10-01 Lightning Talks
 * 2018-11-05
