@@ -36,6 +36,7 @@
 * 2018-08-06 Danny Burrows - Pact
 * 2018-09-10 Jeremy Waller - Docker
 * 2018-10-01 Lightning Talks
+  * Ryan Dawkins - How to write testable code with EF in dotnet core
 * 2018-11-05 Devon Toland - Intro to Unity
 * 2018-12-03
 
