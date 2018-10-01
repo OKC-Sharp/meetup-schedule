@@ -37,6 +37,7 @@
 * 2018-09-10 Jeremy Waller - Docker
 * 2018-10-01 Lightning Talks
   * Ryan Dawkins - How to write testable code with EF in dotnet core
+  * Kimberly Collins - Hacktoberfest
   * Ryan Bupp - SQL Business Logic in .NET Apps
 * 2018-11-05 Devon Toland - Intro to Unity
 * 2018-12-03 Dodzidenu Dzakuma
