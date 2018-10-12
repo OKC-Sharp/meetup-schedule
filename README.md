@@ -40,7 +40,7 @@
   * Kimberly Collins - Hacktoberfest
   * Ryan Bupp - SQL Business Logic in .NET Apps
 * 2018-11-05 Devon Toland - Intro to Unity
-* 2018-12-03 Dodzidenu Dzakuma
+* 2018-12-03 Dodzidenu Dzakuma - Microprograms: Digging for Gold in Legacy Architecture
 
 ## 2017
 
