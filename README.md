@@ -3,6 +3,7 @@
 ## 2019
 
 * 2019-01-07 Lightning Talks
+  * Amy Egan
   * Matthew Reily - Running .NET Core apps in Kubernetes
 * 2019-02-04
 * 2019-03-04
