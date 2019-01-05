@@ -11,6 +11,8 @@
 * 2019-04-01 Lightning Talks
   * Jake Spencer
   * Ryan Johnson
+  * Rainer Sigwald
+  * Carmen Bourlon
 * 2019-05-06
 * 2019-06-03
 * 2019-07-01 Lightning Talks
