@@ -13,7 +13,7 @@
   * Ryan Johnson
   * Rainer Sigwald
   * Carmen Bourlon
-* 2019-05-06
+* 2019-05-06 Gary Leonhardt - Database Projects
 * 2019-06-03
 * 2019-07-01 Lightning Talks
 * 2019-08-05
