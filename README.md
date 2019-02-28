@@ -4,10 +4,10 @@
 
 * 2019-01-07 Lightning Talks
   * Amy Egan
-  * Matthew Reily - Running .NET Core apps in Kubernetes
+  * Matthew Reily
   * Chelsea Scott
-* 2019-02-04 - Rainer Sigwald
-* 2019-03-04
+* 2019-02-04 Rainer Sigwald
+* 2019-03-04 Steven Fletcher
 * 2019-04-01 Lightning Talks
   * Jake Spencer
   * Ryan Johnson
