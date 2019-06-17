@@ -15,10 +15,10 @@
 * 2019-05-06 Gary Leonhardt - Database Projects
 * 2019-06-03 Jeff Maxwell - Blazor
 * 2019-07-01 Lightning Talks
-  * Mandi Howell
 * 2019-08-05 Jack Kinsey - Writing and Deploying a .NET Core API
 * 2019-09-09
 * 2019-10-07 Lightning Talks
+  * Mandi Howell
 * 2019-11-04
 * 2019-12-02
 
