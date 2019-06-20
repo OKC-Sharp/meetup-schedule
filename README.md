@@ -17,6 +17,7 @@
 * 2019-07-01 Lightning Talks
   * Alex Ayon - Lynda Courses
   * Rainer Sigwald - Semantic Versioning
+  * Shane Gilbert - ORM Pros and Cons
 * 2019-08-05 Jack Kinsey - Writing and Deploying a .NET Core API
 * 2019-09-09
 * 2019-10-07 Lightning Talks
