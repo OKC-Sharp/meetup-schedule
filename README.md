@@ -19,10 +19,10 @@
   * Rainer Sigwald - Semantic Versioning
   * Shane Gilbert - ORM Pros and Cons
 * 2019-08-05 Jack Kinsey - Writing and Deploying a .NET Core API
-* 2019-09-09
-* 2019-10-07 Lightning Talks
+* 2019-09-02 No Meetup
+* 2019-10-07 Career Growth Panel
+* 2019-11-04 Lightning Talks
   * Mandi Howell
-* 2019-11-04
 * 2019-12-02
 
 ## 2018
