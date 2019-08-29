@@ -1,5 +1,20 @@
 # Meetup Schedule
 
+## 2020
+
+* 2020-01-06
+* 2020-02-03 Lightning Talks
+* 2020-03-02
+* 2020-04-06
+* 2020-05-04 Lightning Talks
+* 2020-06-01
+* 2020-07-06
+* 2020-08-03 Lightning Talks
+* 2020-09-14
+* 2020-10-05
+* 2020-11-02 Lightning Talks
+* 2020-12-07
+
 ## 2019
 
 * 2019-01-07 Lightning Talks
