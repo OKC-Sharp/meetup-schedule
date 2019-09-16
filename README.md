@@ -38,7 +38,7 @@
 * 2019-10-07 Career Growth Panel
 * 2019-11-04 Lightning Talks
   * Mandi Howell
-* 2019-12-02
+* 2019-12-02 Kris Wall - Security
 
 ## 2018
 
