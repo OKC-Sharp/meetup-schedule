@@ -38,8 +38,9 @@
 * 2019-10-07 Career Growth Panel
 * 2019-11-04 Lightning Talks
   * Alex Ayon
-  * Jeff Maxwell
+  * Danielle Chitty
   * Mandi Howell
+  * Jeff Maxwell
 * 2019-12-02 Kris Wall - Security
 
 ## 2018
