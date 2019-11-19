@@ -4,6 +4,7 @@
 
 * 2020-01-06
 * 2020-02-03 Lightning Talks
+  * Thomas Evans - How does Docker improve your dev life?
 * 2020-03-02
 * 2020-04-06
 * 2020-05-04 Lightning Talks
