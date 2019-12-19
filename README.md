@@ -2,12 +2,12 @@
 
 ## 2020
 
-* 2020-01-06
+* 2020-01-06 Kris Wall - Harden Your Web App Against Attacks
 * 2020-02-03 Lightning Talks
   * Thomas Evans - How does Docker improve your dev life?
-* 2020-03-02 Dodzidenu Dzakuma
-* 2020-04-06
-* 2020-05-04 Lightning Talks
+* 2020-03-02 
+* 2020-04-06 Lightning Talks
+* 2020-05-04 Dodzidenu Dzakuma - PowerShell
 * 2020-06-01
 * 2020-07-06
 * 2020-08-03 Lightning Talks
