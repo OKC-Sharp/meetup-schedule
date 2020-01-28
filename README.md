@@ -5,6 +5,8 @@
 * 2020-01-06 Kris Wall - Harden Your Web App Against Attacks
 * 2020-02-03 Lightning Talks
   * Thomas Evans - How does Docker improve your dev life?
+  * Wren Summerset - Intro to Visual Studio 2019
+  * Steven Fletcher - How to build your NuGet packages so they target multiple frameworks at once
 * 2020-03-02 Thomas Evans - GraphQL 
 * 2020-04-06 Lightning Talks
 * 2020-05-04 Dodzidenu Dzakuma - PowerShell
