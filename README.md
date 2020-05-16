@@ -10,9 +10,9 @@
 * [2020-03-02](https://www.meetup.com/OKC-Sharp/events/267439534/) Thomas Evans - GraphQL 
 * [2020-04-06](https://www.meetup.com/OKC-Sharp/events/268351387/) Fletch - Moving Mountains (Monoliths) with Bounded Contexts and Feature Gating
 * [2020-05-04](https://www.meetup.com/OKC-Sharp/events/267192480/) Lightning Talks
-  * Austin Keeton - Angular's ControlValueAccessor Interface
   * Alex Ayon - Xamarin Forms
-* 2020-06-01
+  * Shane Gilbert - Testable Code
+* [2020-06-01](https://github.com/OKC-Sharp/meetup-schedule) Panel
 * 2020-07-06
 * 2020-08-03 Lightning Talks
 * 2020-09-14
