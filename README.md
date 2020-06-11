@@ -1,5 +1,20 @@
 # Meetup Schedule
 
+## 2021
+
+* 2021-01-04
+* 2021-02-01
+* 2021-03-01
+* 2021-04-05
+* 2021-05-03
+* 2021-06-07
+* 2021-07-12
+* 2021-08-02
+* 2021-09-13
+* 2021-10-04
+* 2021-11-01
+* 2021-12-06
+
 ## 2020
 
 * [2020-01-06](https://www.meetup.com/OKC-Sharp/events/267192410/) Kris Wall - Harden Your Web App Against Attacks
@@ -15,10 +30,10 @@
 * [2020-06-01](https://github.com/OKC-Sharp/meetup-schedule) Panel
 * [2020-07-06](https://www.meetup.com/OKC-Sharp/events/270715491/) Sean Whitesell - Microservices
 * [2020-08-03](https://www.meetup.com/OKC-Sharp/events/271080805/) Lightning Talks
-* 2020-09-14 Panel
+* 2020-09-14 Panel?
 * 2020-10-05
 * 2020-11-02 Lightning Talks
-* 2020-12-07
+* 2020-12-07 Panel?
 
 ## 2019
 
