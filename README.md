@@ -34,7 +34,7 @@
   * Tanner Smith
   * John Mosesman - A Presentation on How to Give Presentations (recorded)
 * 2020-09-14 Panel?
-* 2020-10-05
+* 2020-10-05 Floyd May - testing pyramid and holistic quality engineering
 * 2020-11-02 Lightning Talks
 * 2020-12-07 Panel?
 
