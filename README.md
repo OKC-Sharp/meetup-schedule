@@ -32,6 +32,7 @@
 * [2020-08-03](https://www.meetup.com/OKC-Sharp/events/271080805/) Lightning Talks
   * Sam Carlton - Evaluating Contract Work
   * Tanner Smith
+  * John Mosesman - A Presentation on How to Give Presentations (recorded)
 * 2020-09-14 Panel?
 * 2020-10-05
 * 2020-11-02 Lightning Talks
