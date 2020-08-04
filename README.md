@@ -30,12 +30,12 @@
 * [2020-06-01](https://github.com/OKC-Sharp/meetup-schedule) Panel
 * [2020-07-06](https://www.meetup.com/OKC-Sharp/events/270715491/) Sean Whitesell - Microservices
 * [2020-08-03](https://www.meetup.com/OKC-Sharp/events/271080805/) Lightning Talks
-  * Sam Carlton - Evaluating Contract Work
-  * Tanner Smith
+  * Sam Carlton - How to Get Paid What's Fair
   * John Mosesman - A Presentation on How to Give Presentations (recorded)
 * 2020-09-14 Panel?
 * 2020-10-05 Floyd May - testing pyramid and holistic quality engineering
 * 2020-11-02 Lightning Talks
+  * Tanner Smith?
 * 2020-12-07 Panel?
 
 ## 2019
