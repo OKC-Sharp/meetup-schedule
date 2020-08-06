@@ -1,5 +1,7 @@
 # Topic Suggestions
 
+## Talks
+
 * Difference between C#, .NET, .NET Core, ASP.NET, ASP.NET MVC, etc.
 * Object-relational mapping (pros and cons of using it and of the various options)
 * Building solid JSON REST APIs
@@ -18,3 +20,8 @@
 * What is Docker?
 * How do you deploy into a Kubernetes cluster?
 * Continuous Integration and Deployment in VSTS
+
+## Panels
+
+* Testing
+* Freelancing
