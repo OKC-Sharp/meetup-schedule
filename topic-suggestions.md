@@ -25,3 +25,7 @@
 
 * Testing
 * Freelancing
+
+## Conversations
+
+* Is OOP dead?
