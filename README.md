@@ -32,12 +32,12 @@
 * [2020-08-03](https://www.meetup.com/OKC-Sharp/events/271080805/) Lightning Talks
   * Sam Carlton - How to Get Paid What's Fair
   * John Mosesman - A Presentation on How to Give Presentations (recorded)
-* 2020-09-14 [Panel](https://www.meetup.com/OKC-Sharp/events/272339174/)
-* 2020-10-05 Floyd May - testing pyramid and holistic quality engineering
-* 2020-11-02 Lightning Talks
+* [2020-09-14](https://www.meetup.com/OKC-Sharp/events/272339174/) Panel
+* [2020-10-05](https://www.meetup.com/OKC-Sharp/events/272427680/) Floyd May - The Testing Pyramid and Holistic Quality Engineering
+* [2020-11-02](https://www.meetup.com/OKC-Sharp/events/272427625/) Lightning Talks
   * Tanner Smith?
   * Michael Griffey
-* 2020-12-07 Panel?
+* [2020-12-07](https://www.meetup.com/OKC-Sharp/events/272427698) Panel
 
 ## 2019
 
