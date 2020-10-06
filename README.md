@@ -3,7 +3,7 @@
 ## 2021
 
 * 2021-01-04
-* 2021-02-01
+* 2021-02-01 Fletch - Pure Dependency Injection - Full Talk
 * 2021-03-01
 * 2021-04-05
 * 2021-05-03
@@ -37,6 +37,7 @@
 * [2020-11-02](https://www.meetup.com/OKC-Sharp/events/272427625/) Lightning Talks
   * Charles Rogers
   * Michael Griffey
+  * Steven Fletcher - (Pure Dependency Injection - Preview)
 * [2020-12-07](https://www.meetup.com/OKC-Sharp/events/272427698) Panel on Testing
 
 ## 2019
