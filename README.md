@@ -37,6 +37,7 @@
 * [2020-11-02](https://www.meetup.com/OKC-Sharp/events/272427625/) Lightning Talks
   * Charles Rogers
   * Michael Griffey
+  * Steven Fletcher - (Pure Dependency Injection - Preview)
 * [2020-12-07](https://www.meetup.com/OKC-Sharp/events/272427698) Panel on Testing
 
 ## 2019
