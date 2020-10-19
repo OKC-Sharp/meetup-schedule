@@ -36,7 +36,7 @@
 * [2020-10-05](https://www.meetup.com/OKC-Sharp/events/272427680/) Floyd May - The Testing Pyramid and Holistic Quality Engineering
 * [2020-11-02](https://www.meetup.com/OKC-Sharp/events/272427625/) Lightning Talks
   * Charles Rogers
-  * Michael Griffey
+  * Michael Griffey - Blazor
   * Steven Fletcher - (Pure Dependency Injection - Preview)
 * [2020-12-07](https://www.meetup.com/OKC-Sharp/events/272427698) Panel on Testing
 
