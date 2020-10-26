@@ -22,7 +22,7 @@
   * Thomas Evans - How does Docker improve your dev life?
   * Wren Summerset - Intro to Visual Studio 2019
   * Steven Fletcher - How to build your NuGet packages so they target multiple frameworks at once
-* [2020-03-02](https://www.meetup.com/OKC-Sharp/events/267439534/) Thomas Evans - GraphQL
+* [2020-03-02](https://www.meetup.com/OKC-Sharp/events/267439534/) Thomas Evans - GraphQL 
 * [2020-04-06](https://www.meetup.com/OKC-Sharp/events/268351387/) Fletch - Moving Mountains (Monoliths) with Bounded Contexts and Feature Gating
 * [2020-05-04](https://www.meetup.com/OKC-Sharp/events/267192480/) Lightning Talks
   * Alex Ayon - Xamarin Forms
