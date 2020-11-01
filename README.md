@@ -2,9 +2,10 @@
 
 ## 2021
 
-* 2021-01-04
+* 2021-01-04 Lightning Talks?
+  * Michael Griffey - Blazor?
 * 2021-02-01 Fletch - Pure Dependency Injection - Full Talk
-* 2021-03-01
+* 2021-03-01 Panel?
 * 2021-04-05
 * 2021-05-03
 * 2021-06-07
@@ -36,8 +37,7 @@
 * [2020-10-05](https://www.meetup.com/OKC-Sharp/events/272427680/) Floyd May - The Testing Pyramid and Holistic Quality Engineering
 * [2020-11-02](https://www.meetup.com/OKC-Sharp/events/272427625/) Lightning Talks
   * Matthew Lee
-  * Michael Griffey - Blazor
-  * Steven Fletcher - (Pure Dependency Injection - Preview)
+  * Steven Fletcher - Pure Dependency Injection (Preview)
 * [2020-12-07](https://www.meetup.com/OKC-Sharp/events/272427698) Panel on Testing
 
 ## 2019
