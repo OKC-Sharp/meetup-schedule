@@ -2,8 +2,7 @@
 
 ## 2021
 
-* [2021-01-04](https://www.meetup.com/OKC-Sharp/events/275066548) Lightning Talks?
-  * Michael Griffey - Blazor?
+* [2021-01-04](https://www.meetup.com/OKC-Sharp/events/275066548) Lightning Talks
 * 2021-02-01 Fletch - Pure Dependency Injection - Full Talk
 * 2021-03-01 Ryan Bupp - .NET Core/5 Configuration
 * 2021-04-05 Panel?
