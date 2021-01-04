@@ -3,8 +3,8 @@
 ## 2021
 
 * [2021-01-04](https://www.meetup.com/OKC-Sharp/events/275066548) Lightning Talks
-* 2021-02-01 Fletch - Pure Dependency Injection - Full Talk
-* 2021-03-01 Ryan Bupp - .NET Core/5 Configuration
+* [2021-02-01](https://www.meetup.com/OKC-Sharp/events/275544410) Fletch - Pure Dependency Injection
+* [2021-03-01](https://www.meetup.com/OKC-Sharp/events/275544555) Ryan Bupp - .NET Core/5 Configuration
 * 2021-04-05 Panel?
 * 2021-05-03
 * 2021-06-07
