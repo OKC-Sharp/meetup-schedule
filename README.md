@@ -9,6 +9,7 @@
 * [2021-05-03](https://www.meetup.com/OKC-Sharp/events/276560507) Lightning Talks
    * Carmen Bourlon - Generics
    * Mandi Opitz - How Having a Non-Tech Family Has Helped Me in My Career
+   * Isaac Hildebrandt
 * 2021-06-07
 * 2021-07-12
 * 2021-08-02
