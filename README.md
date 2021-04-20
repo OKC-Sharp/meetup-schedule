@@ -7,6 +7,7 @@
 * [2021-03-01](https://www.meetup.com/OKC-Sharp/events/275544555) Ryan Bupp - .NET Core/5 Configuration
 * [2021-04-05](https://www.meetup.com/OKC-Sharp/events/275962642) Career Development Panel
 * [2021-05-03](https://www.meetup.com/OKC-Sharp/events/276560507) Lightning Talks
+*   * Carmen Bourlon - Generics
 * 2021-06-07
 * 2021-07-12
 * 2021-08-02
