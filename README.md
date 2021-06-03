@@ -10,7 +10,7 @@
    * Carmen Bourlon - Generics
    * Mandi Opitz - How Having a Non-Tech Family Has Helped Me in My Career
    * Isaac Hildebrandt
-* 2021-06-07
+* 2021-06-07 Blazor - Jeff Maxwell
 * 2021-07-12
 * 2021-08-02
 * 2021-09-13
