@@ -10,9 +10,9 @@
    * Carmen Bourlon - Generics
    * Mandi Opitz - How Having a Non-Tech Family Has Helped Me in My Career
    * Isaac Hildebrandt
-* 2021-06-07 Blazor - Jeff Maxwell
+* [2021-06-07](https://www.meetup.com/OKC-Sharp/events/278002526/) Blazor - Jeff Maxwell
 * 2021-07-12
-* 2021-08-02
+* 2021-08-02 Lightning Talks
 * 2021-09-13
 * 2021-10-04
 * 2021-11-01
