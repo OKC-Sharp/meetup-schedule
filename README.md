@@ -12,7 +12,7 @@
    * Isaac Hildebrandt
 * [2021-06-07](https://www.meetup.com/OKC-Sharp/events/278002526/) Jeff Maxwell - Blazor
 * [2021-07-12](https://www.meetup.com/OKC-Sharp/events/278855222/) Fletch - SDLC from a Microsoft Shop
-* [2021-08-02](https://www.meetup.com/OKC-Sharp/events/278855247/) Lightning Talks
+* [2021-08-02](https://www.meetup.com/OKC-Sharp/events/278855247/) Roundtable
 * 2021-09-13
 * 2021-10-04
 * 2021-11-01
