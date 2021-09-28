@@ -20,7 +20,7 @@
 
 * 2021-12-06
 * 2021-11-01
-* 2021-10-04
+* [2021-10-04](https://www.meetup.com/OKC-Sharp/events/280898534/) Floyd May - Addressing Cross-cutting Concerns in ASP.Net Core
 * [2021-09-13](https://www.meetup.com/OKC-Sharp/events/280488858/) Fletch - Separate Procedural from Functional
 * [2021-08-02](https://www.meetup.com/OKC-Sharp/events/278855247/) Roundtable
 * [2021-07-12](https://www.meetup.com/OKC-Sharp/events/278855222/) Fletch - SDLC from a Microsoft Shop
