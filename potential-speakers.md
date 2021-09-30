@@ -1,8 +1,12 @@
 # Potential Speakers and Panelists
 
-* Ryan Bupp
-* Steven Fletcher
-* Joel Maupin
-* Floyd May
+* Brent Beachler
 * David McGill
+* Fletch
+* Floyd May
+* Joel Maupin
+* Keith Lewis
+* Kimberly Collins
+* Matthew Lee
 * Rainer Sigwald
+* Ryan Bupp
