@@ -2,24 +2,25 @@
 
 ## 2022
 
-* 2022-12-05
-* 2022-11-07
-* 2022-10-03
-* 2022-09-12
-* 2022-08-01
-* 2022-07-11
-* 2022-06-06
-* 2022-05-02
-* 2022-04-04
-* 2022-03-07
-* 2022-02-07
-* 2022-01-03
-
+* 2022-12-05 - TBD
+* 2022-11-07 - TBD
+* 2022-10-03 - TBD
+* 2022-09-12 - TBD
+* 2022-08-01 - TBD
+* 2022-07-11 - TBD
+* 2022-06-06 - TBD
+* 2022-05-02 - TBD
+* 2022-04-04 - TBD
+* [2022-03-07](https://www.meetup.com/OKC-Sharp/) Panel - How closely should the Customer and the Developer communicate?
+   * Steven Fletcher, Floyd May, Kimberly Collins, Ryan Bupp
+* 2022-02-07 - TBD
+* 2022-01-03 - TBD
 
 ## 2021
 
-* 2021-12-06
-* 2021-11-01
+* [2021-12-06](https://www.meetup.com/OKC-Sharp/) ORM Pros / Cons
+   * Joel Maupin, Keith Lewis, Steven Fletcher
+* 2021-11-08 - TBD
 * [2021-10-04](https://www.meetup.com/OKC-Sharp/events/280898534/) Floyd May - Addressing Cross-cutting Concerns in ASP.Net Core
 * [2021-09-13](https://www.meetup.com/OKC-Sharp/events/280488858/) Fletch - Separate Procedural from Functional
 * [2021-08-02](https://www.meetup.com/OKC-Sharp/events/278855247/) Roundtable
