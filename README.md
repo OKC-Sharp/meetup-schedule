@@ -25,33 +25,40 @@
 * [2021-09-13](https://www.meetup.com/OKC-Sharp/events/280488858/) Fletch - Separate Procedural from Functional
 * [2021-08-02](https://www.meetup.com/OKC-Sharp/events/278855247/) Roundtable
 * [2021-07-12](https://www.meetup.com/OKC-Sharp/events/278855222/) Fletch - SDLC from a Microsoft Shop
+   * [YouTube](https://www.youtube.com/watch?v=Zucvofl_uTg)
 * [2021-06-07](https://www.meetup.com/OKC-Sharp/events/278002526/) Jeff Maxwell - Blazor
+   * [YouTube](https://www.youtube.com/watch?v=zPr5LrC3CI4)
 * [2021-05-03](https://www.meetup.com/OKC-Sharp/events/276560507) Lightning Talks
-   * Carmen Bourlon - Generics
-   * Mandi Opitz - How Having a Non-Tech Family Has Helped Me in My Career
-   * Isaac Hildebrandt
+   * [Always Buy Generic - Carmen Bourlon](https://www.youtube.com/watch?v=JDB93jMDBnY)
+   * [Local Development Environment with Docker and Nuke - Isaac Hildebrandt](https://www.youtube.com/watch?v=e2se0KmF_ec)
 * [2021-04-05](https://www.meetup.com/OKC-Sharp/events/275962642) Career Development Panel
+   * [YouTube](https://www.youtube.com/watch?v=m_p00Fu5lIs)
 * [2021-03-01](https://www.meetup.com/OKC-Sharp/events/275544555) Ryan Bupp - .NET Core/5 Configuration
 * [2021-02-01](https://www.meetup.com/OKC-Sharp/events/275544410) Fletch - Pure Dependency Injection
+   * [YouTube](https://www.youtube.com/watch?v=AXOp9T2i2pg)
 * [2021-01-04](https://www.meetup.com/OKC-Sharp/events/275066548) Lightning Talks
 
 ## 2020
 
 * [2020-12-07](https://www.meetup.com/OKC-Sharp/events/272427698) Panel on Testing
+   * [YouTube](https://www.youtube.com/watch?v=5bBNexefEtg)
 * [2020-11-02](https://www.meetup.com/OKC-Sharp/events/272427625/) Lightning Talks
   * Matthew Lee
   * Steven Fletcher - Pure Dependency Injection (Preview)
-* [2020-10-05](https://www.meetup.com/OKC-Sharp/events/272427680/) Floyd May - The Testing Pyramid and Holistic Quality Engineering
+* [2020-10-05](https://www.meetup.com/OKC-Sharp/events/272427680/) Floyd May - Holistic Quality Engineering
+  * [YouTube](https://www.youtube.com/watch?v=BKHIQifXHk8)
 * [2020-09-14](https://www.meetup.com/OKC-Sharp/events/272339174/) Panel on Freelancing
+  * [YouTube](https://www.youtube.com/watch?v=7EoJ-5DfBZw)
 * [2020-08-03](https://www.meetup.com/OKC-Sharp/events/271080805/) Lightning Talks
   * Sam Carlton - How to Get Paid What's Fair
-  * John Mosesman - A Presentation on How to Give Presentations (recorded)
+  * [John Mosesman - A Presentation on How to Give Presentations](https://www.youtube.com/watch?v=SIgzzjxrrOk) (recorded)
 * [2020-07-06](https://www.meetup.com/OKC-Sharp/events/270715491/) Sean Whitesell - Microservices
 * [2020-06-01](https://github.com/OKC-Sharp/meetup-schedule) Panel
 * [2020-05-04](https://www.meetup.com/OKC-Sharp/events/267192480/) Lightning Talks
-  * Alex Ayon - Xamarin Forms
-  * Shane Gilbert - Testable Code
+  * [Alex Ayon - Xamarin Forms](https://www.youtube.com/watch?v=M68JvAbOpoc)
+  * [Shane Gilbert - Testable Code](https://www.youtube.com/watch?v=A4laU9yTl1M)
 * [2020-04-06](https://www.meetup.com/OKC-Sharp/events/268351387/) Fletch - Moving Mountains (Monoliths) with Bounded Contexts and Feature Gating
+  * [YouTube](https://www.youtube.com/watch?v=fRikqeDxZhI)
 * [2020-03-02](https://www.meetup.com/OKC-Sharp/events/267439534/) Thomas Evans - GraphQL 
 * [2020-02-03](https://www.meetup.com/OKC-Sharp/events/267192376/) Lightning Talks
   * Thomas Evans - How does Docker improve your dev life?
@@ -62,6 +69,7 @@
 ## 2019
 
 * 2019-12-02 Kris Wall - Security
+  * [YouTube](https://www.youtube.com/watch?v=qHJ6OC9eicM)
 * 2019-11-04 Lightning Talks
   * Alex Ayon
   * Danielle Chitty
