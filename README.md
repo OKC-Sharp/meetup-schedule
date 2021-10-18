@@ -20,7 +20,7 @@
 
 * [2021-12-06](https://www.meetup.com/OKC-Sharp/) ORM Pros / Cons
    * Joel Maupin, Keith Lewis, Steven Fletcher
-* 2021-11-08 - TBD
+* [2021-11-08](https://www.meetup.com/OKC-Sharp/events/281502532/) Fletch - From null to Maybe? What is a Maybe Monad?
 * [2021-10-04](https://www.meetup.com/OKC-Sharp/events/280898534/) Floyd May - Addressing Cross-cutting Concerns in ASP.Net Core
 * [2021-09-13](https://www.meetup.com/OKC-Sharp/events/280488858/) Fletch - Separate Procedural from Functional
 * [2021-08-02](https://www.meetup.com/OKC-Sharp/events/278855247/) Roundtable
