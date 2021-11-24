@@ -14,11 +14,11 @@
 * [2022-03-07](https://www.meetup.com/OKC-Sharp/) Panel - How closely should the Customer and the Developer communicate?
    * Steven Fletcher, Floyd May, Kimberly Collins, Ryan Bupp
 * 2022-02-07 - TBD
-* 2022-01-03 - TBD
+* [2022-01-03](https://www.meetup.com/OKC-Sharp/events/282288149/) - Fletch and Mark Seemann - Interview with Mark
 
 ## 2021
 
-* [2021-12-06](https://www.meetup.com/OKC-Sharp/) Joel Maupin - ORM: The good, the great, and the ugly
+* [2021-12-06](https://www.meetup.com/OKC-Sharp/events/282145547/) Joel Maupin - ORM: The good, the great, and the ugly
 * [2021-11-08](https://www.meetup.com/OKC-Sharp/events/281502532/) Fletch - From null to Maybe? What is a Maybe Monad?
 * [2021-10-04](https://www.meetup.com/OKC-Sharp/events/280898534/) Floyd May - Addressing Cross-cutting Concerns in ASP.Net Core
 * [2021-09-13](https://www.meetup.com/OKC-Sharp/events/280488858/) Fletch - Separate Procedural from Functional
