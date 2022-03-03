@@ -13,7 +13,7 @@
 * 2022-04-04 - TBD
 * [2022-03-07](https://www.meetup.com/OKC-Sharp/) Panel - How closely should the Customer and the Developer communicate?
    * Steven Fletcher, Floyd May, Kimberly Collins, Ryan Bupp
-* 2022-02-07 - TBD
+* [2022-02-07](https://www.meetup.com/OKC-Sharp/events/283607483/) - Do What I Do (DWID S1E1) - Fruit UI
 * [2022-01-03](https://www.meetup.com/OKC-Sharp/events/282288149/) - Fletch and Mark Seemann - Interview with Mark
 
 ## 2021
