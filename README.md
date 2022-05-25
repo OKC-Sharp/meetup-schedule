@@ -8,9 +8,9 @@
 * 2022-09-12 - TBD
 * 2022-08-01 - TBD
 * 2022-07-11 - TBD
-* 2022-06-06 - TBD
-* 2022-05-02 - TBD
-* [2022-04-04](https://www.meetup.com/OKC-Sharp/) Panel - How closely should the Customer and the Developer communicate?
+* [2022-06-06](https://www.meetup.com/OKC-Sharp/events/286141544/) - Let's just chat about Code, maybe play a bit
+* [2022-05-02](https://www.meetup.com/OKC-Sharp/events/285503707/) - DWID Episode 2 (Do What I Do Challenge) - API
+* [2022-04-04](https://www.meetup.com/OKC-Sharp/events/284851339/) Panel - How closely should the Customer and the Developer communicate?
    * Steven Fletcher, Floyd May, Kimberly Collins, Ryan Bupp
 * [2022-03-07](https://www.meetup.com/OKC-Sharp/events/284318165/) - What Is: a Shared Development Environment - With Fletch
 * [2022-02-07](https://www.meetup.com/OKC-Sharp/events/283607483/) - Do What I Do (DWID S1E1) - Fruit UI
