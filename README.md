@@ -4,10 +4,10 @@
 
 * 2022-12-05 - TBD
 * 2022-11-07 - TBD
-* 2022-10-03 - TBD
-* 2022-09-12 - TBD
+* 2022-10-03 - Code Review - Twitter Stream API Consumer
+* [2022-09-12](https://www.meetup.com/okc-sharp/events/288243351) - Starting Fresh (New Repo) with Rainer Sigwald
 * 2022-08-01 - TBD
-* 2022-07-11 - TBD
+* 2022-07-11 - "Play a bit" Part 2 - TicTacToe smarter computer
 * [2022-06-08](https://www.meetup.com/OKC-Sharp/events/286141544/) - Let's just chat about Code, maybe play a bit
 * [2022-05-02](https://www.meetup.com/OKC-Sharp/events/285503707/) - DWID Episode 2 (Do What I Do Challenge) - API
 * [2022-04-04](https://www.meetup.com/OKC-Sharp/events/284851339/) Panel - How closely should the Customer and the Developer communicate?
